@@ -24,6 +24,9 @@ The Random Forest model successfully classified the EEG patterns with an overall
 
 !([cap_6.1.png](https://github.com/morenatroiano01-rgb/Neural-Data-Analysis-Python/blob/main/cap_6.1.png?raw=true))
 
+<img width="800" height="600" alt="Cap_6 1" src="https://github.com/user-attachments/assets/b5f7112b-e921-4240-be8f-562dbf905a7d" />
+
+
 Note: Due to data privacy and size constraints, only a sample subset of the dataset and the core processing scripts are included in this repository.
 
 # How to Run the Code
