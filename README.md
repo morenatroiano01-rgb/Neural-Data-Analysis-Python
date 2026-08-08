@@ -22,7 +22,7 @@ Statistical Validation: Evaluated the model's performance using metrics such as 
 # Results
 The Random Forest model successfully classified the EEG patterns with an overall accuracy of 67% and a precision of 75% for the "concentrate" class. The statistical validation confirmed the robustness of the data processing pipeline and the reliability of the extracted features.
 
-!(cap_6.1.png)
+!([cap_6.1.png](https://github.com/morenatroiano01-rgb/Neural-Data-Analysis-Python/blob/main/cap_6.1.png?raw=true))
 
 Note: Due to data privacy and size constraints, only a sample subset of the dataset and the core processing scripts are included in this repository.
 
